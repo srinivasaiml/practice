@@ -1,0 +1,45 @@
+.counter{
+    height: 180px;
+    width: 300px;
+    border: 6px double black;
+    padding: 10px;
+    text-align: center;
+    background-color :rgb(36, 37, 33);
+    
+
+}
+body{
+    background: #948a56;
+    text-align: center;
+}
+#lbl{
+   font-size: 110px ;
+   color: rgb(173, 6, 159);
+   
+}
+.btn{
+    background-color: rgb(223, 219, 209);
+   width: 90px;
+   border: none;
+   border-radius: 5px;
+   color: black;
+cursor: pointer;
+transition: 0.6s ease;
+}
+#lbl:hover{
+    box-shadow: 0px 0px 25px violet;
+
+}
+#btnD:hover{
+    background-color: rgb(76, 206, 232);
+    box-shadow: 3px 3px 20px rgb(39, 166, 226) ;
+    
+}
+#btnR:hover{
+    background-color: rgb(226, 9, 1);
+    box-shadow: 0px 2px 20px rgb(226, 79, 21) ;
+}
+#btnI:hover{
+    background-color: chartreuse;
+    box-shadow: 0px 2px 20px rgb(137, 226, 21) ;
+}

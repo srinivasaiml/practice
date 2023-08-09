@@ -1,0 +1,22 @@
+.box{
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+   background-size: 100% 90%;
+
+}
+#dog{
+    width: 200px;
+    margin:700px;
+    mix-blend-mode: multiply;
+}
+#boy{
+    width: 500px;
+    margin:50px -300px;
+    mix-blend-mode:multiply;
+
+}
+#cat{
+    width: 500px;
+    margin: 50px 200px;
+    mix-blend-mode: multiply;
+}
